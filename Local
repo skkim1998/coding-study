@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main() {
+  FILE* DB;
+  FILE* QUERY;
+  fopen("output.txt","+w")
+
